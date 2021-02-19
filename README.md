@@ -1,7 +1,11 @@
-### Hi there 👋
+### Hello 👋
 
 <!--
 **JessieAnnGriffin/JessieAnnGriffin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Introductory message that welcomes viewers to your page
+2-3 quick bullets or sentences that describe yourself: this can include passions, interests, expertise, and what you currently do
+Reference skills and expertise you have
+Contact information to let others know how they can send you a message
 
 Here are some ideas to get you started:
 
@@ -14,3 +18,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Hi, I'm Jessie! I'm an iOS delveoper who is passionate about making apps that work and solve problems.
+You find a wide array of languages and project type peppered throughout my profile, that's because I like to be multi-faceted and cross-functional.
+
+- 👯 I’m looking to collaborate on apps in the health or social networking industries.
+- 🌱 I’m currently learning HTML5 and Swift.
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/jessie-ann-griffin/) or [Twitter](https://twitter.com/iOSjess)
+- ⚡ Fun fact: one of my cats is named after Benedict Cumberbatch (but she's a girl and I call her Beni).
