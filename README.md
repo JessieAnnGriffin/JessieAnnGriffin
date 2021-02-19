@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 -->
 
 Hi, I'm Jessie! I'm an iOS developer who is passionate about making apps that work and solve problems.
-You find a wide array of languages and project type peppered throughout my profile, that's because I like to be multi-faceted and cross-functional.
+You'll find a wide array of languages and project type peppered throughout my profile, that's because I like to be multi-faceted and cross-functional.
 
 - 👯 I’m looking to collaborate on apps in the health or social networking industries.
 - 🌱 I’m currently learning HTML5 and Swift.
